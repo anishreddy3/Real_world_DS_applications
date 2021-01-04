@@ -1,4 +1,4 @@
-## Real World Data Science Projects
+## Real World Applications of Data Science
 
 ### Risks and Returns: Sharpe Ratio
 ### Android App Market Analysis
